@@ -10,11 +10,8 @@ SUPABASE_URL = "https://tymnumjtbxompjabjnez.supabase.co"
 SUPABASE_KEY = "sb_publishable_P8XnfSscnYnv6TvIN9C2MQ_AcmNQ0eK"
 
 DOMAINS = [
-    "yopmail.com", "mailinator.com", "tempmail.com", "guerrillamail.com",
-    "throwaway.email", "maildrop.cc", "fakeinbox.com", "temp-mail.org",
-    "sharklasers.com", "grr.la", "pokemail.net", "spam4.me",
-    "dispostable.com", "mailnesia.com", "tempail.com", "emailondeck.com",
-    "incognitomail.com", "mohmal.com", "getairmail.com", "10minutemail.com"
+    "gmail.com", "outlook.com", "hotmail.com", "yahoo.com", "icloud.com",
+    "proton.me", "mail.com", "aol.com", "live.com", "msn.com"
 ]
 
 def create_account():
